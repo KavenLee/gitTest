@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>TEST GIT</title>
 </head>
 <body>
-test1.jsp
+test1.jsp 수정
 </body>
 </html>
