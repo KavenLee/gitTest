@@ -7,6 +7,6 @@
 <title>TEST GIT</title>
 </head>
 <body>
-test1.jsp 수정 완료
+test1.jsp Update Complete
 </body>
 </html>
